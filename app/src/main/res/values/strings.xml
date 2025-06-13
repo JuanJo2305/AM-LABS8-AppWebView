@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PeruFood</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="context_share">Compartir</string>
+    <string name="context_copy">Copiar URL</string>
+    <string name="popup_reload">Recargar</string>
+    <string name="popup_home">Ir a Inicio</string>
+    <string name="ver_favoritos">Ver Favoritos</string>
+
+</resources>
